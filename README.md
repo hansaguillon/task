@@ -47,13 +47,13 @@ Despliegue
 Instalación
 1. Clona este repositorio:
    git clone https://github.com/hansaguillon/task.git
-   cd task-manager-app
-2. Instala las dependencias:
+   cd task
+3. Instala las dependencias:
    npm install
-3. Configura el backend: Asegúrate de tener las variables de entorno necesarias configuradas (.env).
-4. Inicia la aplicación en modo desarrollo:
+4. Configura el backend: Asegúrate de tener las variables de entorno necesarias configuradas (.env).
+5. Inicia la aplicación en modo desarrollo:
    npm run dev
-5. Accede al frontend en http://localhost:5137
+6. Accede al frontend en http://localhost:5137
 
 
    
