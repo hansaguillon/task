@@ -46,7 +46,7 @@ Despliegue
   
 Instalación
 1. Clona este repositorio:
-   git clone https://github.com/tu-usuario/task-manager-app.git
+   git clone https://github.com/hansaguillon/task.git
    cd task-manager-app
 2. Instala las dependencias:
    npm install
