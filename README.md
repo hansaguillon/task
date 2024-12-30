@@ -54,17 +54,17 @@ cd task
 ```
 
 #### Instala las dependencias
-
+```bash
 npm install
-
+```
 
 #### Configura el backend
 Asegúrate de tener las variables de entorno necesarias configuradas en un archivo `.env`.
 
 #### Inicia la aplicación en modo desarrollo
-
+```bash
 npm run dev
-
+```
 
 #### Accede al frontend
 Abre [http://localhost:5137](http://localhost:5137) en tu navegador.
@@ -89,9 +89,9 @@ El proyecto está desplegado en las siguientes plataformas:
 Debido al comportamiento de Render, el backend entra en estado de hibernación cuando no está en uso. Para garantizar el correcto funcionamiento de la aplicación:
 
 1. Accede a la URL del backend en Render:
-   
+   ```bash
    https://apitask-ixqf.onrender.com/task
-   
+   ```
 2. Una vez que la página cargue, el backend estará activo y podrás utilizar el frontend normalmente.
 
 ---
@@ -101,13 +101,13 @@ Debido al comportamiento de Render, el backend entra en estado de hibernación c
 
 1. Haz un fork del proyecto.
 2. Crea una rama con tu funcionalidad:
-   
+   ```bash
    git checkout -b feature/nueva-funcionalidad
-   
+   ```
 3. Realiza tus cambios y sube el commit:
-   
+   ```bash
    git commit -m 'Descripción breve de la funcionalidad'
-   
+   ```
 4. Envía un Pull Request explicando tu contribución.
 
 ---
