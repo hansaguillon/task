@@ -40,8 +40,11 @@
 
 ### Backend
 - Node.js
-- Express.js
+- NestJS
 - MongoDB
+- Swagger
+- class-validator
+- Mongoose
 
 ---
 
